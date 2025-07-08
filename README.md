@@ -9,8 +9,7 @@ Uma aplicação de desktop robusta para Windows, construída com Electron, para 
 
 ## Demonstração
 
-![Demonstração da Aplicação](image_285b48.png)
-_(Sugestão: Substitua `image_285b48.png` pelo nome do arquivo de imagem ou GIF que melhor representa a aplicação em funcionamento)._
+![Demonstração da Aplicação](assets/img/Demonstração aplicativo.png)
 
 ## ✨ Funcionalidades
 
