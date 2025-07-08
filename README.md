@@ -9,7 +9,7 @@ Uma aplicação de desktop robusta para Windows, construída com Electron, para 
 
 ## Demonstração
 
-![Demonstração da Aplicação](assets/img/Demonstração aplicativo.png)
+![Tela principal](assets/img/tela_principal.png)
 
 ## ✨ Funcionalidades
 
