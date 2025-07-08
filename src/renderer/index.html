@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self'" />
+    <title>DW MP3 YouTube</title>
+    <link rel="stylesheet" href="../../assets/css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>DW MP3 YouTube</h1>
+
+      <input type="text" id="urlInput" placeholder="Cole a URL do YouTube aqui" />
+
+      <button id="selectFolderBtn">Selecionar Pasta de Destino</button>
+      <p id="selectedFolderText">Nenhuma pasta selecionada</p>
+
+      <button id="downloadBtn">Baixar MP3</button>
+
+      <div class="status-container">
+        <p id="status">Aguardando ação...</p>
+        <p id="playlistStatus"></p>
+        <p id="trackName"></p>
+      </div>
+
+      <progress id="progressBar" value="0" max="100"></progress>
+    </div>
+
+    <script src="./renderer.js"></script>
+  </body>
+</html>
